@@ -88,8 +88,7 @@
        "after 3 ps": false,
        "perm": true,
        "notes": [
-         {"t": "On Apr. 16, 2013 the Delaware Senate passed the Hazel D. Plant Voter Restoration Act in a 15-6 vote. The act amended the Delaware Constitution by removing the five year waiting period for most felons to regain the ability to vote. People convicted of a felony (with some exceptions) are now automatically eligible to vote after serving their full sentence including incarceration, parole, and probation.
-           Exceptions: People convicted of murder or manslaughter, a felony offense against public administration involving bribery, improper influence, or abuse of office, or a felony sexual offense remain permanently disqualified from voting.", "l": ""},
+         {"t": "On Apr. 16, 2013 the Delaware Senate passed the Hazel D. Plant Voter Restoration Act in a 15-6 vote. The act amended the Delaware Constitution by removing the five year waiting period for most felons to regain the ability to vote. People convicted of a felony (with some exceptions) are now automatically eligible to vote after serving their full sentence including incarceration, parole, and probation. Exceptions: People convicted of murder or manslaughter, a felony offense against public administration involving bribery, improper influence, or abuse of office, or a felony sexual offense remain permanently disqualified from voting.", "l": ""},
          {"t": "Hazel D. Plant Voter Restoration Act", "l": "https://felonvoting.procon.org/sourcefiles/hazel-d-plant-voter-restoration-act.pdf"},
          {"t": "Delaware Constitution: Article V Section 2", "l": "https://felonvoting.procon.org/sourcefiles/deleware-constitution-article-V-2014.pdf"},
        ]
@@ -109,11 +108,10 @@
        "after 3 ps": false,
        "perm": true,
        "notes": [
-         {"t": "On Mar. 9, 2011 the Florida rules of Executive Clemency were toughened. Automatic restoration of civil rights and the ability to vote will no longer be granted for any offenses. All individuals convicted of any felony will now have to apply for executive clemency after a five year waiting period. Individuals who are convicted, or who have previously been convicted, of certain felonies such as murder, assault, child abuse, drug trafficking, arson, etc. are subject to a seven year waiting period and a clemency board hearing to determine whether or not the ability to vote will be restored.
-Prior to the Mar. 9, 2011 rule change, some individuals convicted of nonviolent felonies were re-enfranchised automatically by the Clemency Board upon completion of their full sentences, including payment of fines and fees.", "l": ""},
-        {"t": "According to the Florida Rights Restoration Coalition website (accessed Aug. 15, 2012), 'If you were convicted of a felony in another state and had your civil rights restored before you became a Florida resident, you do not need to apply for RCR [restoration of civil rights] in Florida.'", "l": ""}
-        {"t": "Florida Rules of Executive Clemency", "l": "https://felonvoting.procon.org/sourcefiles/florida-rules-executive-clemency-2017.pdf"}
-        {"t": "Florida Clemency Application", "l": "https://felonvoting.procon.org/sourcefiles/florida_clemency_application.pdf"}
+         {"t": "On Mar. 9, 2011 the Florida rules of Executive Clemency were toughened. Automatic restoration of civil rights and the ability to vote will no longer be granted for any offenses. All individuals convicted of any felony will now have to apply for executive clemency after a five year waiting period. Individuals who are convicted, or who have previously been convicted, of certain felonies such as murder, assault, child abuse, drug trafficking, arson, etc. are subject to a seven year waiting period and a clemency board hearing to determine whether or not the ability to vote will be restored.'Prior to the Mar. 9, 2011 rule change, some individuals convicted of nonviolent felonies were re-enfranchised automatically by the Clemency Board upon completion of their full sentences, including payment of fines and fees.'", "l": ""},
+        {"t": "According to the Florida Rights Restoration Coalition website (accessed Aug. 15, 2012), 'If you were convicted of a felony in another state and had your civil rights restored before you became a Florida resident, you do not need to apply for RCR [restoration of civil rights] in Florida.'", "l": ""},
+        {"t": "Florida Rules of Executive Clemency", "l": "https://felonvoting.procon.org/sourcefiles/florida-rules-executive-clemency-2017.pdf"},
+        {"t": "Florida Clemency Application", "l": "https://felonvoting.procon.org/sourcefiles/florida_clemency_application.pdf"},
        ]
      },
      "Georgia": {
@@ -492,10 +490,10 @@ Prior to the Mar. 9, 2011 rule change, some individuals convicted of nonviolent 
          {"t": "On June 23, 2015 Governor McAuliffe announced that 'outstanding court costs and fees will no longer prohibit an individual from having his or her rights restore'", "l": ""},
          {"t": "On Apr. 22, 2016, Governor McAuliffe signed an order restoring the vote to all 200,000+ felons in Virginia, regardless of their charge, who had completed their term of incarceration and their term of probation or parole. The New York Times reports (Apr. 22, 2016, 'Virginia Governor Restores Voting Rights to Felons') that the governor's action will not apply to felons released in the future, although the Governor's aides say he plans 'to issue similar orders on a monthly basis to cover people as they are released'", "l": ""},
          {"t": "According to an email from the Virginia Department of Elections that was provided to ProCon.org on Mar. 28, 2018, 'Virginia applies the restoration policy of the state the conviction was handed down.' So, for instance, if a person was convicted in an automatic restoration state such as California, and then moved to Virginia, that individual would be eligible to register to vote in Virginia. ", "l": ""},
-         {"t": "", "l": ""},
-         {"t": "", "l": ""},
-         {"t": "", "l": ""},
-         {"t": "", "l": ""},
+         {"t": "Governor McAuliffe's Statement on the Virginia Supreme Court Decision", "l": "https://felonvoting.procon.org/sourcefiles/mcauliffe-statement-on-virginia-supreme-court-ruling.pdf"},
+         {"t": "Governor McAuliffe Restores Voting and Civil Rights to Over 200,000 Virginians", "l": "https://felonvoting.procon.org/sourcefiles/mcauliffe-restores-vote-to-all-felons-2016.pdf"},
+         {"t": "Governor McAuliffe Announces New Reforms to Restoration of Rights Process", "l": "https://felonvoting.procon.org/sourcefiles/governor-macauliffe-removes-fines-restriction-2015.pdf"},
+         {"t": "Governor McAuliffe’s Letter Outlining His Policy Changes", "l": "https://felonvoting.procon.org/sourcefiles/mcauliffe-changes-to-virginia-restoration-of-rights.pdf"},
          {"t": "", "l": ""},
        ]
      },
@@ -506,7 +504,8 @@ Prior to the Mar. 9, 2011 rule change, some individuals convicted of nonviolent 
        "after 3 ps": true,
        "perm": false,
        "notes": [
-         {"t": "", "l": ""},
+         {"t": "All people with a felony conviction must re-register to vote after completion of their sentence and all parole and probation. However, the Secretary of State's website states that 'your voting rights can be revoked if the sentencing court determines that you have failed to comply with the terms of your legal financial obligations.'", "l": ""},
+         {"t": "Felons and Voting Rights", "l": "https://felonvoting.procon.org/sourcefiles/washington-felony-voter-registration-2017.pdf"},
        ]
      },
      "West Virginia": {
@@ -532,7 +531,9 @@ Prior to the Mar. 9, 2011 rule change, some individuals convicted of nonviolent 
        "after 3 ps": false,
        "perm": true,
        "notes": [
-         {"t": "", "l": ""},
+         {"t": "'Effective July 1, 2017, W.S. §7-13-105 allows individuals convicted, that are first time nonviolent felons, to automatically have their right to vote restored if they completed their supervision or were discharged from an institution on or after January 1, 2010. Individuals who completed their sentence prior to January 1, 2010, are required to apply for restoration of the right to vote.' All others convicted of a felony must be pardoned or have their rights restored by the governor'", "l": ""},
+         {"t": "Wyoming Restoration of Voting Rights", "l": "https://felonvoting.procon.org/sourcefiles/wyoming-restoration-of-voting-rights-2017.pdf"},
+         {"t": "Wyoming Restoration of Voting Rights Application", "l": "https://felonvoting.procon.org/sourcefiles/wyoming-restoration-of-voting-rights-application.pdf"},
        ]
      }
   },

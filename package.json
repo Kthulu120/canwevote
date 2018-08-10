@@ -16,6 +16,7 @@
   },
   "dependencies": {
     "ganalytics": "^2.0.1",
+    "linkstate": "^1.1.1",
     "md-colors": "^1.0.0",
     "preact": "^8.2.5",
     "preact-router": "^2.5.7"
